@@ -6,7 +6,6 @@ import PricingCardThree from '@/components/sections/pricing/PricingCardThree';
 import FaqBase from '@/components/sections/faq/FaqBase';
 import FooterLogoEmphasis from '@/components/sections/footer/FooterLogoEmphasis';
 import { CreditCard, HelpCircle, Sparkles } from "lucide-react";
-import Link from "next/link";
 
 export default function PricingPage() {
   return (

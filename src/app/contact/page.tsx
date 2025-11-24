@@ -5,7 +5,6 @@ import NavbarLayoutFloatingInline from '@/components/navbar/NavbarLayoutFloating
 import ContactSplit from '@/components/sections/contact/ContactSplit';
 import FooterLogoEmphasis from '@/components/sections/footer/FooterLogoEmphasis';
 import { Mail } from "lucide-react";
-import Link from "next/link";
 
 export default function ContactPage() {
   return (

@@ -62,21 +62,21 @@ export default function HomePage() {
           textboxLayout="default"
           features={[
             {
-              id: "1",
+              id: 1,
               title: "Find & Reserve",
               description: "Browse available Audi vehicles near you using our mobile app. Reserve instantly with flexible booking options from hourly to daily rentals.",
               imageSrc: "https://pixabay.com/get/gb806eab8797d94757b5953e144c9561db929decdaa32ea3c2cd2e97399bfdf6fa2c1da21dacddd50213417db78bd9ada0f28fb4748bc023ce51ba9e212fe68ed_1280.jpg",
               imageAlt: "Mobile app booking interface"
             },
             {
-              id: "2",
+              id: 2,
               title: "Unlock & Drive",
               description: "Access your reserved vehicle with our contactless mobile unlock technology. No keys needed - just your smartphone and driving license.",
               imageSrc: "https://pixabay.com/get/g3f9f732f16c5045a570f771f992bd09d122e10b900729b3d4fdb2ed4d0c12c6fb75187a9a55ea240f6fa4db821b7912921796b23a2111ec26276c7d74c891299_1280.jpg",
               imageAlt: "Audi A3 sedan ready for pickup"
             },
             {
-              id: "3",
+              id: 3,
               title: "Return Anywhere",
               description: "Complete your journey by parking at any designated AudiShare location. End your trip in the app and you're all set for your next adventure.",
               imageSrc: "https://pixabay.com/get/gc7c5550aadd621aa72292cace601cf3bd01771b4af594ca4cac2931387115af3398a5e77922ce67dbdc00f5c32597a599b93c73d19e5686755a1e729afa697c3_1280.jpg",

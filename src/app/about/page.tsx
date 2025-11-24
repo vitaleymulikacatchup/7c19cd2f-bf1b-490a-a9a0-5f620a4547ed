@@ -6,7 +6,6 @@ import TextAbout from '@/components/sections/about/TextAbout';
 import TestimonialCardThree from '@/components/sections/testimonial/TestimonialCardThree';
 import FooterLogoEmphasis from '@/components/sections/footer/FooterLogoEmphasis';
 import { MessageCircle } from "lucide-react";
-import Link from "next/link";
 
 export default function AboutPage() {
   return (
